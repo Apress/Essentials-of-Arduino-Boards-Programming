@@ -3,7 +3,7 @@
 This repository accompanies [*Essentials of Arduino™ Boards Programming: Step-by-Step Guide to Master Arduino Boards Hardware and Software*](https://www.link.springer.com/book/10.1007/9781484295991) by Farzin Asadi (Apress, 2023).
 
 [comment]: #cover
-![Cover image](9781484295991.JPG)
+![Cover image](9781484295991.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
